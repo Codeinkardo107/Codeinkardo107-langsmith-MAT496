@@ -45,6 +45,7 @@ This notebook demonstrates how to programmatically create and upload datasets to
 ### 2) evaluators.ipynb
 Demonstrates how to create custom evaluators in LangSmith to automatically score and assess LLM application performance.
 Eg. Semantic similarity score: {'score': 1, 'key': 'similarity'}.
+- Added a Simple exact match evaluator
 
 ---
 ### 3) experiments.ipynb
