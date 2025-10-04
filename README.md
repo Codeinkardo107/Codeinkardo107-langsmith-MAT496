@@ -35,6 +35,9 @@ Thsi notebook explains how to use LangSmith's Threads feature to manage multi-tu
 ## Module 2
 ### 1) dataset_upload.ipynb
 This notebook demonstrates how to programmatically create and upload datasets to LangSmith using the SDK(Software Development Kit), rather than relying solely on the UI.
+<img width="1759" height="912" alt="image" src="https://github.com/user-attachments/assets/9a59ffb5-0dea-426f-90ee-1e5576e7ac64" />
+
 - Changed the questoin in the end cell.
+
 
 ### 2) evaluators.ipynb
