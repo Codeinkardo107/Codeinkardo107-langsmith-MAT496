@@ -27,3 +27,5 @@ Each method shows how to monitor function calls, line execution, and performance
 
 
 ### 4) conversational_threads.ipynb
+Thsi notebook explains how to use LangSmith's Threads feature to manage multi-turn conversations for LLM applications like RAG systems. To group traces into a single thread, a unique identifier(UUID) is passed via the langsmith_extra metadata using a key like thread_id, session_id, or conversation_id. The notebook demonstrates this by running a RAG application twice, linking both runs to the same thread_id to show they are part of the same conversation.
+- Added a class called conversation manager
