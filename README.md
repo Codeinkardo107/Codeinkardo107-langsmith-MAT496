@@ -49,3 +49,7 @@ Eg. Semantic similarity score: {'score': 1, 'key': 'similarity'}.
 
 ---
 ### 3) experiments.ipynb
+Demonstrates how to run systematic experiments in LangSmith to evaluate and compare different versions of LLM applications using datasets and custom evaluators.
+Systematic A/B Testing provides a complete framework for comparing different versions of LLM systems using controlled experiments with datasets and custom evaluation metrics.
+Data Subset Testing
+ - Added a complete RAG Application with experiment setup
