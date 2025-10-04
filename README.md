@@ -17,4 +17,4 @@ With tracing we can debug issues like unexpected failures or outputs.
 Shows how to trace different types of model and system runs (especially LLMs) using LangSmith’s @traceable.
 
 - setup, input/output formats, metadata, handling streaming responses, and also tool calling.
-Added a LLM run for chat models.
+- Added a LLM run for chat models.
