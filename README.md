@@ -6,7 +6,7 @@ By: Bhavya Yadav, 2410110101
 ---
 
 ## Module 1
-### Tracing Basics
+### tracing_basics.ipynb
 Shows how to trace a RAG pipeline(document retrieval + LLM generation) using LangSmith’s @traceable decorator .
 The @traceable decorator (from langsmith) can wrap functions to automatically log.
 With tracing we can debug issues like unexpected failures or outputs.
