@@ -13,8 +13,6 @@ With tracing we can debug issues like unexpected failures or outputs.
 - setup, usage, and how to add metadata to traces for better visibility.
 - Added some examples.
 
----
-
 ### types_of_run.ipynb
 Shows how to trace different types of model and system runs (especially LLMs) using LangSmith’s @traceable.
 
